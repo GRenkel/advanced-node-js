@@ -1,0 +1,2 @@
+node -v - .nvmrc
+#takes the first output and writes on the file
